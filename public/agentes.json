@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "legajo": 12213123,
+    "name": "Isaias Romano",
+    "puesto": "Puesto-1",
+    "activo" : true 
+  },
+  {
+    "id": 2,
+    "legajo": 1231242354,
+    "name": "Franco Cono",
+    "puesto": "Puesto-1",
+    "activo" : false
+  },
+  {
+    "id": 3,
+    "legajo": 12312321,
+    "name": "Facundo Pias",
+    "puesto": "Puesto-1",
+    "activo" : true
+
+  },
+  {
+    "id": 4,
+    "legajo": 1231232,
+    "name": "Nico colioto",
+    "puesto": "Puesto-1",
+    "activo" : false
+  }
+]
